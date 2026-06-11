@@ -50,6 +50,6 @@ Run scripts in the following order:
 5. `05_Temporal_coverage.R`
 6. `06_Ignorance_maps.R`
 
-This scripts is optional
+This script is optional
 
 `07_Figures.R` 
